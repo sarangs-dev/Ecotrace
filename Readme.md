@@ -111,5 +111,4 @@ Follow the interactive terminal prompts to enter your monthly travel distances, 
 This project is an **educational estimator** developed for learning and individual awareness under SDG 13 (Climate Action). Numerical results are approximations based on generalized regional emission factors.
 =======
 # Ecotrace
-Ecotrace is a lightweight, educational Python CLI application built under SDG 13 (Climate Action). It provides individuals with an approximate monthly footprint estimate across transportation, home electricity, and food habits through transparent calculations, backed by AI-generated actionable reduction strategies.
->>>>>>> 8b6b45977f2beb7de5f035023e4b4a600f57ed04
+
