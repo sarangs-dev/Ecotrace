@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "disclaimer": "These emission factors are generalized regional estimates for educational purposes.",
+  "transportation": {
+    "units": "kg CO2e per km",
+    "factors": {
+      "car": 0.170,
+      "bus": 0.080,
+      "train": 0.040,
+      "flight": 0.250
+    }
+  },
+  "electricity": {
+    "units": "kg CO2e per kWh",
+    "factors": {
+      "grid_default": 0.450
+    }
+  },
+  "food": {
+    "units": "kg CO2e per month",
+    "factors": {
+      "meat_heavy": 210.0,
+      "balanced": 140.0,
+      "vegetarian": 90.0,
+      "vegan": 60.0
+    }
+  }
+}
